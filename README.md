@@ -28,3 +28,8 @@ I live in Iran 🏫. I am currently working as a software Developer.
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
 <br/>
 </div>
+
+
+## Socials
+- 🐰 I am open to developing proposals
+- Contact me on: [![TELEGRAM](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nahalrii)
